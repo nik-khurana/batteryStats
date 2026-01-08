@@ -6,4 +6,4 @@ Waterfall Timestamping: Automatically tracks and assigns specific time windows (
 Multi-Table Analysis:Table 1 & 2: Cumulative and Standby (Screen-off) history.
 Table 3: Snapshot-based diagnostic windows (4-hour slices).
 Table 4: Full session history since the last cable disconnect.Table 
-Table 5: Real-time foreground intensity and hourly drain projections.Thermal & Drain Alerts: Automatically flags "Battery King" apps that exceed safe consumption thresholds.
+Table 5: Real-time foreground intensity and hourly drain projections.
