@@ -26,7 +26,7 @@ Batterystats Collector often waits for a specific trigger (like the screen turni
 
 
 
-
+\n\n\n\n\n
 
 
 That is an extremely sharp observation. It is counter-intuitive, but you are correct: the bgTime in Table 1 (Per-app stats) and the bgTime in Table 2 (Background stats) will almost never match exactly.
